@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
-[![Licença](https://img.shields.io/badge/Licenca-MIT-blue.svg)](LICENSE)
+[![Licença](https://img.shields.io/badge/Licenca-GNU-blue.svg)](LICENSE)
 
 Bem-vindo ao repositório do **Laboratório Raspberry Pi**. Este projeto é um roteiro prático e estruturado para o aprendizado de sistemas embarcados, integração de hardware e protocolos de comunicação de baixo nível utilizando a plataforma Raspberry Pi e Python.
 
